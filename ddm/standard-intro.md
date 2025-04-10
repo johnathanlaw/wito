@@ -26,7 +26,6 @@
   - Data Understood - data services
   - TechScaler and CodeBase - startups
   - Abertay University and the cyberQuarter
-  - DC Thomson
 
 ## Presentation
 
